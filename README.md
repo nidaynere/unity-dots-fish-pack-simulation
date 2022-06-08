@@ -1,7 +1,8 @@
 # unity-dots-fish-pack-simulation
-[![IMAGE ALT TEXT HERE](preview.gif)](https://www.youtube.com/watch?v=bjWBaLJz6MM)
 
 ![](preview.gif)
+
+Youtube video => https://www.youtube.com/watch?v=bjWBaLJz6MM
 
 4096 fishes moving as packs (a.k.a. Boid) on Unity DOTS.
 
