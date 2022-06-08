@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 94c74d452f4267347a5b34ee29fdfa56, type: 3}
+  m_Name: Green
+  m_EditorClassIdentifier: 
+  mesh: {fileID: 1391105594336295549, guid: 92715b62ea5fbd0408bcc7690f5a2b63, type: 3}
+  material: {fileID: 2100000, guid: 231596c0ffc27384d9cebb3f465d1a7f, type: 2}
+  scale: 1

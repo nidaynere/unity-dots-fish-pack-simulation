@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0a774605850f8f54788dc90da848d05a, type: 3}
+  m_Name: BoidSettings1024
+  m_EditorClassIdentifier: 
+  BoidCount: 1024
+  BoidDensity: 4
+  Teams:
+  - Acceleration: 4
+    Drag: 0.02
+    RenderMesh: {fileID: 11400000, guid: 5f19d785d62c8524a9b976eb52f4eaee, type: 2}
+  - Acceleration: 4
+    Drag: 0.03
+    RenderMesh: {fileID: 11400000, guid: c2bf82871ae0771449a84b103a8b4f3e, type: 2}
+  - Acceleration: 11
+    Drag: 0.04
+    RenderMesh: {fileID: 11400000, guid: 015f1e8d15760e948b7f720fdff68531, type: 2}
+  WorldSizeY: 15
+  InitialVelocity: 2
+  MatchVelocityRate: 1
+  AvoidanceRange: 2
+  AvoidanceRate: 5
+  CoherenceRate: 2
+  ViewRange: 3
+  AvoidanceBufferSystem: 1
+  AvoidInsideBoundsOfCubeSystem: 1
+  AvoidOthersSystem: 1
+  DragSystem: 1
+  MatchVelocitySystem: 1
+  UpdateCoherenceSystem: 1
+  TransformSystem: 1
