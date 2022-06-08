@@ -7,4 +7,4 @@
 my rookie work on DOTS.
 
 don't spend effort on this and check this=>
-use and learn from this for a proper boid simulation => https://github.com/Unity-Technologies/EntityComponentSystemSamples/tree/master/ECSSamples/Assets/Advanced/Boids
+https://github.com/Unity-Technologies/EntityComponentSystemSamples/tree/master/ECSSamples/Assets/Advanced/Boids
