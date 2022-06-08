@@ -2,6 +2,8 @@
 
 ![](preview.gif)
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/bjWBaLJz6MM/0.jpg)](https://www.youtube.com/watch?v=bjWBaLJz6MM)
+
 4096 fishes moving as packs (a.k.a. Boid) on Unity DOTS.
 
 my rookie work on DOTS.
