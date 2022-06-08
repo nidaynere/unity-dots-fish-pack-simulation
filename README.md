@@ -1,4 +1,5 @@
 # unity-dots-fish-pack-simulation
+[![IMAGE ALT TEXT HERE](preview.gif)](https://www.youtube.com/watch?v=bjWBaLJz6MM)
 
 ![](preview.gif)
 
@@ -8,7 +9,3 @@ my rookie work on DOTS.
 
 don't spend effort on this and check this=>
 https://github.com/Unity-Technologies/EntityComponentSystemSamples/tree/master/ECSSamples/Assets/Advanced/Boids
-
-Long video on youtube =>
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/bjWBaLJz6MM/0.jpg)](https://www.youtube.com/watch?v=bjWBaLJz6MM)
-
